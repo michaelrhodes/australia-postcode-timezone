@@ -1,0 +1,10 @@
+{
+  "name": "australia-postcode-timezone",
+  "author": "Michael Rhodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "get-timezone-offset": "^1.0.3"
+  }
+}
